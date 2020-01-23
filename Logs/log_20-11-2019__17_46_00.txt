@@ -1,0 +1,6 @@
+Solicitud: GET
+Desde: 192.168.0.32:62034
+Digirida hacia: /api/peliculas/1
+Realizada a las: 20-11-2019__17_46_00
+Guardando logs en: C:\Users\Julian\Desktop\.Net Tutorial\BackEndPeliculas\Logs\log_20-11-2019__17_46_00.txt
+Solicitud completada con éxito

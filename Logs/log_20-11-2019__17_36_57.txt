@@ -1,0 +1,6 @@
+Solicitud: POST
+Desde: 192.168.0.32:62009
+Digirida hacia: /api/peliculas
+Realizada a las: 20-11-2019__17_36_57
+Guardando logs en: C:\Users\Julian\Desktop\.Net Tutorial\BackEndPeliculas\Logs\log_20-11-2019__17_36_57.txt
+Película creada con ID: 6
